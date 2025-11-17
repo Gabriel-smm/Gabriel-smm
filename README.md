@@ -1,1 +1,1 @@
-Hi! My name is Gabriel da Silva Marques and I'm a student from São Paulo Brazil! I'm extremely passionate about technology (particularly robotics) and I created this account to keep record of my personal projects and ideas, as well as to learn how to properly document the projects I create. I want to use my projects not just to understand how to produce new things to the world, but also to cause a positive impact in my community. I hope you guys like my journey here.
+
