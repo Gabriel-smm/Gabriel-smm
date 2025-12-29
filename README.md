@@ -1,4 +1,4 @@
-_### Hi there, I'm Gabriel 👋
+### Hi there, I'm Gabriel 👋
 
 I am a Computer Engineering student at the **University of Notre Dame**, driven by a passion for integrating the physical and digital world to promote people's wellbeing.
 
@@ -20,8 +20,3 @@ My focus is on the intersection of hardware and software—building efficient sy
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-smm&show_icons=true&theme=minimal&hide_border=true" alt="Gabriel's Stats" />
-</p>
-_
