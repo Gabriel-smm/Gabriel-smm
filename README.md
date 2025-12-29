@@ -6,7 +6,6 @@ My focus is on the intersection of hardware and software—building efficient sy
 
 - 🔭 **Currently working on:** SypeAI, an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
 - 💡 **Interests:** Embeeded Systems, Machine Learning, Quantum Computing.
-- 📫 **How to reach me:** https://www.linkedin.com/in/gabriel-da-s-marques/
 
 ---
 
@@ -17,6 +16,15 @@ My focus is on the intersection of hardware and software—building efficient sy
   </a>
 </p>
 
-
 ---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/gabriel-da-s-marques/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gdasilv2@nd.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
