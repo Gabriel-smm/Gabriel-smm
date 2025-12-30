@@ -4,7 +4,7 @@ I am a Computer Engineering student at the **University of Notre Dame**, driven 
 
 My focus is on the intersection of hardware and software—building efficient systems and exploring how innovation can improve the life humans.
 
-- 🔭 **Currently working on:** SypeAI, an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
+- 🔭 **Currently working on:** [SypeAI.com](https://www.sypeai.com/), an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
 - 💡 **Interests:** Embeeded Systems, Machine Learning, Quantum Computing.
 
 ---
