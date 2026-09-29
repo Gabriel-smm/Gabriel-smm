@@ -12,7 +12,7 @@ My focus is on the intersection of hardware and software—building efficient sy
 ### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,bash, ros2" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,bash, ros" />
   </a>
 </p>
 
