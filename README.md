@@ -20,7 +20,7 @@ My focus is on the intersection of hardware and software—building efficient sy
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/gabriel-da-s-marques/)">
+<a href="https://linkedin.com/in/gabriel-da-s-marques/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gdasilv2@nd.edu">
