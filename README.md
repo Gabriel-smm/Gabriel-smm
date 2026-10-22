@@ -5,10 +5,12 @@ I am a Computer Engineering student at the **University of Notre Dame**, driven 
 My focus is on the intersection of hardware and software—building efficient systems and exploring how innovation can improve people's lives.
 
 - 🔭 **Currently working on:**
-  - [SypeAI.com](https://www.sypeai.com/), an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
-  - [Domer Rover](https://github.com/Domer-Rover/capybara-software), integrating real sensor and computer vision data with the rover's physical decisions.
-  - A [tutoring platform](https://github.com/crezner123/Tutoring-Database-Project) for Notre Dame's Student Council, bringing the tutoring resources scattered across campus into one place.
+  - [**Research at Notre Dame's MiniRo Lab**](https://github.com/Gabriel-smm/auto-UR10), bringing a UR10 collaborative robotic arm back into service and controlling it autonomously.
+  - [Domer Rover](https://github.com/Domer-Rover/capybara-software), as a sub-project lead: integrating sensor and computer vision data with the rover's movement, and implementing PID control for the motors.
+  - **DARPA Lift Challenge**, rebuilding Notre Dame's team to restart development of a fixed-wing VTOL drone that lifts multiples of its own weight.
   - A machine learning malware classifier, the NSA project in Notre Dame's Data Club (repo coming soon).
+  - A [tutoring platform](https://github.com/crezner123/Tutoring-Database-Project) for Notre Dame's Student Council, bringing the tutoring resources scattered across campus into one place.
+  - [SypeAI.com](https://www.sypeai.com/), an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
 - 💡 **Interests:** Embedded Systems, Machine Learning, Robotics, Physical AI.
 
 ---
