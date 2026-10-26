@@ -11,6 +11,7 @@ My focus is on the intersection of hardware and software—building efficient sy
   - A machine learning malware classifier, the NSA project in Notre Dame's Data Club (repo coming soon).
   - A [tutoring platform](https://github.com/crezner123/Tutoring-Database-Project) for Notre Dame's Student Council, bringing the tutoring resources scattered across campus into one place.
   - [SypeAI.com](https://www.sypeai.com/), an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
+  - [NSA ML Classifier](https://github.com/feguez/dataclub-nsa), classifying malware families through a public NSA data set using Machine Learning.
 - 💡 **Interests:** Embedded Systems, Machine Learning, Robotics, Physical AI.
 
 ---
