@@ -5,21 +5,23 @@ I am a Computer Engineering student at the **University of Notre Dame**, driven 
 My focus is on the intersection of hardware and software—building efficient systems and exploring how innovation can improve people's lives.
 
 - 🔭 **Currently working on:**
-  - [**Research at Notre Dame's MiniRo Lab**](https://github.com/Gabriel-smm/auto-UR10), bringing a UR10 collaborative robotic arm back into service and controlling it autonomously.
-  - [Domer Rover](https://github.com/Domer-Rover/capybara-software), as a sub-project lead: integrating sensor and computer vision data with the rover's movement, and implementing PID control for the motors.
-  - **DARPA Lift Challenge**, rebuilding Notre Dame's team to restart development of a fixed-wing VTOL drone that lifts multiples of its own weight.
-  - A [tutoring platform](https://github.com/crezner123/Tutoring-Database-Project) for Notre Dame's Student Council, bringing the tutoring resources scattered across campus into one place.
-  - [SypeAI.com](https://www.sypeai.com/), an all-in-one AI-powered platform focused on helping students organize their academic and professional demands, improving their efficiency and welfare.
-  - [NSA ML Classifier](https://github.com/feguez/dataclub-nsa), classifying malware families through a public NSA data set using Machine Learning.
-- 💡 **Interests:** Embedded Systems, Machine Learning, Robotics, Physical AI.
-
+  - [**Research at Notre Dame's MiniRo Lab**](https://github.com/Gabriel-smm/auto-UR10): studying how deterministic controllers, decision models, language models, VLAs and JEPA-style world models perform when controlling real robots. A decision model already runs tasks autonomously on a UR10 collaborative arm.
+  - [Domer Rover](https://github.com/Domer-Rover/capybara-software), sub-project lead: built the rover's soil-sensing system, its 900 MHz / 2.4 GHz communication links, and PID motor control.
+  - [Argus](https://github.com/jlimaz/undefined-sprint-hack): a local AI assistant that identifies and explains radio signals for non-experts. Fine-tuned a classifier to 91.6% accuracy on nine signal types, running fully offline on a 4 GB GPU; now extending it to pure Machine Learning leveraging MoE.
+  - [AI Inference Cluster](https://github.com/Francisco-MEB/aiml-inference), with Notre Dame's AI/ML Club: building two competing inference clusters, funded with $50k by ND's Center for Research Computing, to run open-weight LLMs on campus. 
+  - [Malware Family Classifier](https://github.com/feguez/dataclub-nsa): machine learning to classify malware families from file structure, without executing the files, on EMBER2024 dataset. Currently leading the Exploratory Data Analysis efforts.
+  - [SypeAI.com](https://www.sypeai.com/): connects Canvas grades and schedules with an LLM to build each student's action plan (1st place, SprintHack@ND 2025).
+- 💡 **Interests:** Embedded Systems, Robotics, Physical AI, World Models, Machine Learning, Local/Edge AI.
 ---
 
 ### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,bash,ros,pytorch,fastapi" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 ---
@@ -27,23 +29,10 @@ My focus is on the intersection of hardware and software—building efficient sy
 ### 🌱 Learning Now
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,pytorch,react,tailwind,css,html,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,react,tailwind,html,css" />
   </a>
 </p>
 <p align="left">
-  <a href="https://ollama.com">
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  </a>
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-da-s-marques/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gdasilv2@nd.edu">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
