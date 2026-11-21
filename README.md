@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student at the **University of Notre Dame**, driven by a passion for integrating the physical and digital world to promote people's wellbeing.
 
-My focus is on the intersection of hardware and software—building efficient systems and exploring how innovation can improve people's lives.
+My focus is on the intersection of hardware and software: building efficient systems and exploring how innovation can improve people's lives.
 
 - 🔭 **Currently working on:**
   - [**Research at Notre Dame's MiniRo Lab**](https://github.com/Gabriel-smm/auto-UR10): studying how deterministic controllers, decision models, language models, VLAs and JEPA-style world models perform when controlling real robots. A decision model already runs tasks autonomously on a UR10 collaborative arm.
